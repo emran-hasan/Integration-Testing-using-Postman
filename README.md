@@ -20,3 +20,6 @@ and check own balance and statement. Also agent can deposit money to customer. O
 
 ## API Documentaion:
 https://documenter.getpostman.com/view/29486551/2sA3Qs9BcY
+## Test Cases:
+https://docs.google.com/spreadsheets/d/1rfuq5ykhAktx_V4288oRaPWkbKiVm0JE1RSYoBhYn3c/edit#gid=0
+
