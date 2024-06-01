@@ -23,3 +23,11 @@ https://documenter.getpostman.com/view/29486551/2sA3Qs9BcY
 ## Test Cases:
 https://docs.google.com/spreadsheets/d/1rfuq5ykhAktx_V4288oRaPWkbKiVm0JE1RSYoBhYn3c/edit?usp=sharing
 
+## Bug Report:
+https://docs.google.com/spreadsheets/d/183ikc0SMdsTrqboDmQ94FvV9Pz6rUgArfu5GSeZ66Bg/edit?usp=sharing
+
+## Contribution:
+Contributions are welcome! Please feel free to submit any feature requests.
+
+## Author:
+``Md. Emran Hasan``
